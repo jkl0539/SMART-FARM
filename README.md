@@ -1,4 +1,4 @@
-# SMART-FARM(실시간 온습도 웹구현)
+# Smart farm (실시간 온습도 웹구현)
 
 
 <h3>HTTP와 Web Sosket 차이점</h3>
